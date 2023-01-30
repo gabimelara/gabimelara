@@ -10,7 +10,7 @@
  
 	💻 This is my personal github with some of my projects. 
 	
-	🌱 Technologies I've work with : Javascript, html, css, Bootstrap, React, Vue, Angular, java, python, flutter, dart and C#
+	🌱 Technologies I've work with : Javascript, html, css, Bootstrap, React, Vue, Angular, php, java, python, flutter, dart and C#
 	
 	
 
