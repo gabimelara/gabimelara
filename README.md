@@ -6,7 +6,7 @@
  
 	🤓 I’m interested in programming and UX-design. 
  
-	📚 I’m currently learning more javascript frameworks! 
+	📚 I’m currently learning C#
  
 	💻 This is my personal github with some of my projects. 
 	
