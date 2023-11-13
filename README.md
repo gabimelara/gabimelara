@@ -14,6 +14,6 @@
 	
 	
 
- 📫 You can reach me at gabi14melara@hotmail.com or add me on linkedin https://www.linkedin.com/in/gabriela-melara-8416941aa 
+ 📫 Linkedin https://www.linkedin.com/in/gabriela-melara-8416941aa 
 
 / Gabriela 
