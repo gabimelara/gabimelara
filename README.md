@@ -6,14 +6,11 @@
  
 	🤓 I’m interested in programming and UX-design. 
  
-	📚 I’m currently learning C#
+	📚 I’m currently learning app development
  
 	💻 This is my personal github with some of my projects. 
 	
-	🌱 Technologies I've work with : Javascript, html, css, Bootstrap, React, Vue, Angular, php, java, python, flutter, dart and C#
+	🌱 Technologies I work with : .NET C#, Javascript,Angular, php, java, flutter, dart, css & html
 	
-	
-
- 📫 Linkedin https://www.linkedin.com/in/gabriela-melara-8416941aa 
 
 / Gabriela 
