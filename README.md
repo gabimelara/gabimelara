@@ -4,7 +4,7 @@
  
 	🤓 I’m interested in programming and UX-design. 
  
-	💻 This is my personal github with some of my projects. 
+	💻 This is my personal github with some of my "hobby" projects. 
 
  	🎓 I have a bachelor's Degree in Computer and Systems Sciences.
 	
