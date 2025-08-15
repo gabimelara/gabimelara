@@ -1,6 +1,6 @@
  👋 Hi, I’m @gabimelara
 
- 💞️ I’m a creative software Engineer who likes to learn and develop new skills!
+ 💞️ I’m a creative Software Engineer who likes to learn and develop new skills!
  
 	🤓 I’m interested in programming and UX-design. 
 	
